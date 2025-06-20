@@ -7,13 +7,13 @@ Non-blocking driver for the DFRobot A02YYUW Waterproof Ultrasonic Sensor via UAR
 - ✅ Non-blocking `update()` method — no delays
 - ✅ Supports ESP32/ESP8266/Arduino with HardwareSerial
 - ✅ Distance readout in centimeters
-- ✅ Validates checksum and range (28–750 cm)
+- ✅ Validates checksum and range (3–750 cm)
 - ✅ Easy integration with other sensor loops
 
 ## Sensor Info
 
 - **Model**: DFRobot A02YYUW (SKU: SEN0311)
-- **Range**: 28 cm – 750 cm
+- **Range**: 3 cm – 750 cm
 - **Interface**: UART TTL 3.3–5V
 - **Default baudrate**: 9600 bps
 - **Data format**: 4 bytes: `0xFF HIGH LOW SUM`
