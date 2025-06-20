@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map For UltrasonicA02YYUW
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+UltrasonicA02YYUW	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+update	KEYWORD2
+getDistance	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+CONSTANT	LITERAL1
